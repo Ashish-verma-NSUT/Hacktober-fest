@@ -1,0 +1,51 @@
+
+4 (Gas station)  // R
+928 (minimize malware spread 2) //R
+778 (Swim in rising water) //R
+1508
+1632(rank transform of a matrix)
+378
+240
+2127
+152(with dp)
+1284
+765
+1140 stone games(All)
+2120(O(n) solution)
+382 (reservior sampling)
+1654
+264
+1473
+1402(reducing dishes)
+2132 (stamping grid)
+221 (matrix dp)
+31 (next permutation)
+406 (greedy)
+***818 (race car/ dp)  
+146 (LRU cache)
+460 (LFU cache)
+665 (Non-decreasing array)
+10. (Regular Expression Matching)
+621 (task scheduler)
+*******862. (Shortest Subarray with sum atleast k) 
+**1345 (Jump Game IV)
+873(length of longest fibonacci subsequence)
+1129 (shortest path with alternating colors)
+973 (O(n) solution)
+421 (max xor using trie)  //R
+1489 (find critical and pseudo critical edges)---> (O(ElogE) solution)
+1916 (count ways to build ant colony)
+85 (maximal rectangle O(m*n) approach) 
+1494(parallel courses 2)
+857 ( minimum cost to hire k workers) // R
+2157 (group of string reduce time complexity)
+1320 (minimum distance to type with two fingers reduce time complexity)
+968 (binary tree cameras)
+1621 (recursive function)
+1335 (reduce time complexity)
+117 (population next right pointers-> decrease space complexity)
+1130. (minimum cost tree from leaf nodes -> using stack)
+879. (profitable schemes ---> tabular method ----> reduce time complexity)
+1186. Maximum Subarray Sum with one deletion
+1986. Minimum number of work sessions to finish task (O(2^n*n))// https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/discuss/1436811/C%2B%2BJavaPython-From-Straightforward-to-Optimized-Bitmask-DP-O(2n-*-n)-Clean-and-Concise
+1931. Paiting a grid(using bitmask)
